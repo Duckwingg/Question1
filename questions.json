@@ -1,0 +1,77 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": 2
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": ["Python", "JavaScript", "C#", "Java"],
+        "answer": 1
+    },
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 1
+    },
+    {
+        "question": "What is the color of the sky?",
+        "options": ["Green", "Blue", "Red", "Yellow"],
+        "answer": 1
+    },
+    {
+        "question": "What is the largest planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": 2
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "answer": 1
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": ["Lion", "Cheetah", "Elephant", "Horse"],
+        "answer": 1
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": 1
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "F. Scott Fitzgerald"],
+        "answer": 0
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "answer": 2
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": 3
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+        "answer": 2
+    },
+    {
+        "question": "What is the hardest natural substance?",
+        "options": ["Gold", "Silver", "Diamond", "Iron"],
+        "answer": 2
+    }
+]
