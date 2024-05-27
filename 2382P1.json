@@ -1,258 +1,127 @@
-{
-  "questions": [
+[
     {
-      "question": "What is the main purpose of BS 7671?",
-      "options": [
-        "A) To ensure the safety of electrical installations in the UK",
-        "B) To standardize all electrical components",
-        "C) To regulate electrical appliances",
-        "D) To provide guidelines for manufacturing electrical devices"
-      ],
-      "correct_answer": "A"
+        "question": "What is the main purpose of BS 7671?",
+        "options": ["To ensure the safety of electrical installations in the UK", "To standardize all electrical components", "To regulate electrical appliances", "To provide guidelines for manufacturing electrical devices"],
+        "answer": 0
     },
     {
-      "question": "Which of the following is covered in Part 1 of BS 7671?",
-      "options": [
-        "A) Scope, object, and fundamental principles",
-        "B) Wiring regulations",
-        "C) Inspection and testing",
-        "D) Protection against electric shock"
-      ],
-      "correct_answer": "A"
+        "question": "Which of the following is covered in Part 1 of BS 7671?",
+        "options": ["Scope, object, and fundamental principles", "Wiring regulations", "Inspection and testing", "Protection against electric shock"],
+        "answer": 0
     },
     {
-      "question": "In BS 7671, what is the 'Scope' primarily concerned with?",
-      "options": [
-        "A) The extent of electrical installations to which the regulations apply",
-        "B) The types of materials used in electrical installations",
-        "C) The qualifications required for electricians",
-        "D) The standards for electrical appliances"
-      ],
-      "correct_answer": "A"
+        "question": "In BS 7671, what is the 'Scope' primarily concerned with?",
+        "options": ["The extent of electrical installations to which the regulations apply", "The types of materials used in electrical installations", "The qualifications required for electricians", "The standards for electrical appliances"],
+        "answer": 0
     },
     {
-      "question": "What is one of the fundamental principles outlined in Part 1 of BS 7671?",
-      "options": [
-        "A) Minimizing environmental impact",
-        "B) Ensuring safety from electric shock and fire",
-        "C) Reducing installation costs",
-        "D) Promoting energy efficiency"
-      ],
-      "correct_answer": "B"
+        "question": "What is one of the fundamental principles outlined in Part 1 of BS 7671?",
+        "options": ["Minimizing environmental impact", "Ensuring safety from electric shock and fire", "Reducing installation costs", "Promoting energy efficiency"],
+        "answer": 1
     },
     {
-      "question": "BS 7671 is also known as what?",
-      "options": [
-        "A) The Wiring Regulations",
-        "B) The Electrical Code",
-        "C) The Safety Standards",
-        "D) The Installation Guidelines"
-      ],
-      "correct_answer": "A"
+        "question": "BS 7671 is also known as what?",
+        "options": ["The Wiring Regulations", "The Electrical Code", "The Safety Standards", "The Installation Guidelines"],
+        "answer": 0
+    },
+    {
+        "question": "What does BS 7671 Amendment 2 specifically address?",
+        "options": ["Renewable energy sources", "Electric vehicle charging installations", "Updates to existing wiring regulations", "New electrical appliance standards"],
+        "answer": 2
+    },
+    {
+        "question": "Which organization is responsible for BS 7671?",
+        "options": ["British Standards Institution (BSI)", "International Electrotechnical Commission (IEC)", "Institute of Electrical and Electronics Engineers (IEEE)", "National Fire Protection Association (NFPA)"],
+        "answer": 0
+    },
+    {
+        "question": "Part 1 of BS 7671 outlines the objectives of the standard. Which of the following is NOT one of those objectives?",
+        "options": ["Safety", "Functionality", "Aesthetics", "Compatibility"],
+        "answer": 2
+    },
+    {
+        "question": "What is the importance of 'fundamental principles' in BS 7671?",
+        "options": ["They provide a foundation for the detailed requirements", "They dictate the color coding of wires", "They outline the fees for certification", "They specify the tools required for installation"],
+        "answer": 0
+    },
+    {
+        "question": "Which part of BS 7671 contains definitions used throughout the standard?",
+        "options": ["Part 1", "Part 2", "Part 3", "Part 4"],
+        "answer": 1
+    },
+    {
+        "question": "What is one of the main safety concerns addressed by BS 7671?",
+        "options": ["Electrical energy conservation", "Protection against electric shock", "Wireless communication interference", "Reducing installation costs"],
+        "answer": 1
+    },
+    {
+        "question": "BS 7671 applies to which of the following installations?",
+        "options": ["Industrial", "Commercial", "Residential", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "Which of these is NOT a fundamental principle in BS 7671?",
+        "options": ["Ensuring safety", "Maintaining functionality", "Reducing energy bills", "Compatibility with other installations"],
+        "answer": 2
+    },
+    {
+        "question": "How often is BS 7671 typically updated?",
+        "options": ["Every year", "Every 3-5 years", "Every 10 years", "As needed"],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary aim of BS 7671's fundamental principles?",
+        "options": ["To ensure installations are economical", "To ensure the safety and proper functioning of electrical installations", "To promote the latest technology", "To streamline the installation process"],
+        "answer": 1
+    },
+    {
+        "question": "Who must comply with BS 7671?",
+        "options": ["Only large corporations", "All individuals and organizations involved in electrical installation", "Government agencies", "Only electricians"],
+        "answer": 1
+    },
+    {
+        "question": "What role does the 'object' section play in BS 7671?",
+        "options": ["It defines the scope of the regulations", "It explains the purpose of the regulations", "It lists all electrical components", "It provides a detailed installation guide"],
+        "answer": 1
+    },
+    {
+        "question": "Which term is used in BS 7671 to describe the use of protective measures to ensure safety?",
+        "options": ["Safeguarding", "Precautionary measures", "Protective measures", "Safety protocols"],
+        "answer": 2
+    },
+    {
+        "question": "The introduction to BS 7671 provides what type of information?",
+        "options": ["Historical context", "Basic definitions and scope", "Detailed installation instructions", "Case studies"],
+        "answer": 1
+    },
+    {
+        "question": "What does the abbreviation BS stand for in BS 7671?",
+        "options": ["British Standard", "Basic Safety", "Building Standard", "British Specification"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is NOT a focus of Part 1 of BS 7671?",
+        "options": ["Definitions", "Scope and object", "Fundamental principles", "Installation procedures"],
+        "answer": 3
+    },
+    {
+        "question": "Why is it important to follow BS 7671 regulations?",
+        "options": ["To reduce costs", "To ensure safety and compliance", "To speed up installation", "To use the latest technologies"],
+        "answer": 1
+    },
+    {
+        "question": "What is the significance of 'compatibility' in BS 7671?",
+        "options": ["It ensures all components work together safely and effectively", "It standardizes the look of installations", "It reduces the cost of installations", "It ensures installations are energy efficient"],
+        "answer": 0
+    },
+    {
+        "question": "Who is primarily responsible for enforcing BS 7671 standards?",
+        "options": ["Local authorities", "The installer", "The British Standards Institution", "Electrical inspectors"],
+        "answer": 1
+    },
+    {
+        "question": "What is a key outcome expected from adhering to the fundamental principles of BS 7671?",
+        "options": ["Lower installation costs", "Increased installation speed", "Enhanced safety and reliability", "Better aesthetic appearance"],
+        "answer": 2
     }
-  ]
-}
-{
-  "questions": [
-    {
-      "question": "What does BS 7671 Amendment 2 specifically address?",
-      "options": [
-        "A) Renewable energy sources",
-        "B) Electric vehicle charging installations",
-        "C) Updates to existing wiring regulations",
-        "D) New electrical appliance standards"
-      ],
-      "correct_answer": "C"
-    },
-    {
-      "question": "Which organization is responsible for BS 7671?",
-      "options": [
-        "A) British Standards Institution (BSI)",
-        "B) International Electrotechnical Commission (IEC)",
-        "C) Institute of Electrical and Electronics Engineers (IEEE)",
-        "D) National Fire Protection Association (NFPA)"
-      ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "Part 1 of BS 7671 outlines the objectives of the standard. Which of the following is NOT one of those objectives?",
-      "options": [
-        "A) Safety",
-        "B) Functionality",
-        "C) Aesthetics",
-        "D) Compatibility"
-      ],
-      "correct_answer": "C"
-    },
-    {
-      "question": "What is the importance of 'fundamental principles' in BS 7671?",
-      "options": [
-        "A) They provide a foundation for the detailed requirements",
-        "B) They dictate the color coding of wires",
-        "C) They outline the fees for certification",
-        "D) They specify the tools required for installation"
-      ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "Which part of BS 7671 contains definitions used throughout the standard?",
-      "options": [
-        "A) Part 1",
-        "B) Part 2",
-        "C) Part 3",
-        "D) Part 4"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is one of the main safety concerns addressed by BS 7671?",
-      "options": [
-        "A) Electrical energy conservation",
-        "B) Protection against electric shock",
-        "C) Wireless communication interference",
-        "D) Reducing installation costs"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "BS 7671 applies to which of the following installations?",
-      "options": [
-        "A) Industrial",
-        "B) Commercial",
-        "C) Residential",
-        "D) All of the above"
-      ],
-      "correct_answer": "D"
-    },
-    {
-      "question": "Which of these is NOT a fundamental principle in BS 7671?",
-      "options": [
-        "A) Ensuring safety",
-        "B) Maintaining functionality",
-        "C) Reducing energy bills",
-        "D) Compatibility with other installations"
-      ],
-      "correct_answer": "C"
-    },
-    {
-      "question": "How often is BS 7671 typically updated?",
-      "options": [
-        "A) Every year",
-        "B) Every 3-5 years",
-        "C) Every 10 years",
-        "D) As needed"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is the primary aim of BS 7671's fundamental principles?",
-      "options": [
-        "A) To ensure installations are economical",
-        "B) To ensure the safety and proper functioning of electrical installations",
-        "C) To promote the latest technology",
-        "D) To streamline the installation process"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "Who must comply with BS 7671?",
-      "options": [
-        "A) Only large corporations",
-        "B) All individuals and organizations involved in electrical installation",
-        "C) Government agencies",
-        "D) Only electricians"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What role does the 'object' section play in BS 7671?",
-      "options": [
-        "A) It defines the scope of the regulations",
-        "B) It explains the purpose of the regulations",
-        "C) It lists all electrical components",
-        "D) It provides a detailed installation guide"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "Which term is used in BS 7671 to describe the use of protective measures to ensure safety?",
-      "options": [
-        "A) Safeguarding",
-        "B) Precautionary measures",
-        "C) Protective measures",
-        "D) Safety protocols"
-      ],
-      "correct_answer": "C"
-    },
-    {
-      "question": "The introduction to BS 7671 provides what type of information?",
-      "options": [
-        "A) Historical context",
-        "B) Basic definitions and scope",
-        "C) Detailed installation instructions",
-        "D) Case studies"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What does the abbreviation BS stand for in BS 7671?",
-      "options": [
-        "A) British Standard",
-        "B) Basic Safety",
-        "C) Building Standard",
-        "D) British Specification"
-      ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "Which of the following is NOT a focus of Part 1 of BS 7671?",
-      "options": [
-        "A) Definitions",
-        "B) Scope and object",
-        "C) Fundamental principles",
-        "D) Installation procedures"
-      ],
-      "correct_answer": "D"
-    },
-    {
-      "question": "Why is it important to follow BS 7671 regulations?",
-      "options": [
-        "A) To reduce costs",
-        "B) To ensure safety and compliance",
-        "C) To speed up installation",
-        "D) To use the latest technologies"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is the significance of 'compatibility' in BS 7671?",
-      "options": [
-        "A) It ensures all components work together safely and effectively",
-        "B) It standardizes the look of installations",
-        "C) It reduces the cost of installations",
-        "D) It ensures installations are energy efficient"
-      ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "Who is primarily responsible for enforcing BS 7671 standards?",
-      "options": [
-        "A) Local authorities",
-        "B) The installer",
-        "C) The British Standards Institution",
-        "D) Electrical inspectors"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is a key outcome expected from adhering to the fundamental principles of BS 7671?",
-      "options": [
-        "A) Lower installation costs",
-        "B) Increased installation speed",
-        "C) Enhanced safety and reliability",
-        "D) Better aesthetic appearance"
-      ],
-      "correct_answer": "C"
-    }
-  ]
-}
+]
